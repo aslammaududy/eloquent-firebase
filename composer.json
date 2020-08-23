@@ -1,0 +1,27 @@
+{
+    "name": "quanvt/laravel-firebase-sync",
+    "description": "Synchronize your Eloquent models with a Firebase realtime database.",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "firebase",
+        "eloquent",
+        "laravel"
+    ],
+    "authors": [
+        {
+            "name": "Vũ Thế Quân",
+            "email": "quanvtph06842@fpt.edu.vn",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.0",
+        "kreait/firebase-php": "^4.35"
+    },
+    "autoload": {
+        "psr-4": {
+            "QuanVT\\Firebase\\": "src/"
+        }
+    }
+}
