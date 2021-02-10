@@ -1,6 +1,6 @@
 <?php
 
-namespace QuanVT\Firebase;
+namespace Aslam\Firebase;
 
 use Exception;
 use Kreait\Firebase\Factory as FirebaseFactory;
