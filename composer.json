@@ -1,5 +1,5 @@
 {
-    "name": "aslammaududy/laravel-firebase-sync",
+    "name": "aslammaududy/eloquent-firebase",
     "description": "Synchronize your Eloquent models with a Firebase realtime database.",
     "type": "library",
     "license": "MIT",
